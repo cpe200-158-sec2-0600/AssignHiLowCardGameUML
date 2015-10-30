@@ -5,4 +5,4 @@
 
  Student ID: 570610600
  
- ![uml-diagrams](http://imgur.com/Wu4ZQf6)
+ ![uml-diagrams](http://i.imgur.com/Wu4ZQf6.png)
